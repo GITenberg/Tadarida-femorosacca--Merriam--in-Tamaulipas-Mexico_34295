@@ -1,0 +1,35 @@
+_repo: Tadarida-femorosacca--Merriam--in-Tamaulipas-Mexico_34295
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Dalquest, Walter Woelber
+    alias: Dalquest, Walter W. (Walter Woelber)
+    birthdate: 1917
+    deathdate: 2000
+    gutenberg_agent_id: '34468'
+    url: http://www.gutenberg.org/2009/agents/34468
+  - agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+description: ''
+gutenberg_issued: '2010-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34295'
+  lccn: '48045099'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Mammals -- Mexico -- Tamaulipas'
+- !lcsh 'Tadarida femorosacca'
+title: Tadarida femorosacca (Merriam) in Tamaulipas, Mexico
+url: http://www.gutenberg.org/ebooks/34295
